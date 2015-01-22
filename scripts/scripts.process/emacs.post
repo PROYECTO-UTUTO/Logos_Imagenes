@@ -1,3 +1,0 @@
-emerge --unmerge emacs:22
-emerge --unmerge emacs:23
-

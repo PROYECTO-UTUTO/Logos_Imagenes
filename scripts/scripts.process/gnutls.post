@@ -1,3 +1,0 @@
-wget $PROTOCOL://$SERVER/utiles/gnutls/gnutls-patch.tar.bz2
-tar -xvjpf gnutls-patch.tar.bz2 -C /
-rm -f gnutls-patch.tar.bz2

@@ -1,2 +1,0 @@
-rc-update del timevault default
-rc-update del gw6c default
